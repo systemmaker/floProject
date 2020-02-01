@@ -39,6 +39,26 @@
                 "width": 72,
                 "height": 72
             }
+        },
+        "core/Repeat_7i04c": {
+            "component": "core/Repeat",
+            "metadata": {
+                "label": "Repeat",
+                "x": -144,
+                "y": -720,
+                "width": 72,
+                "height": 72
+            }
+        },
+        "core/Repeat_ikxbo": {
+            "component": "core/Repeat",
+            "metadata": {
+                "label": "Repeat",
+                "x": 0,
+                "y": -756,
+                "width": 72,
+                "height": 72
+            }
         }
     },
     "connections": []
