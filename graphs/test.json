@@ -1,0 +1,16 @@
+{
+    "caseSensitive": false,
+    "properties": {
+        "name": "test",
+        "description": "tets",
+        "icon": "address-book",
+        "environment": {
+            "type": "noflo-browser"
+        }
+    },
+    "inports": {},
+    "outports": {},
+    "groups": [],
+    "processes": {},
+    "connections": []
+}
