@@ -29,6 +29,16 @@
                 "width": 72,
                 "height": 72
             }
+        },
+        "dom/GetElement_etnvb": {
+            "component": "dom/GetElement",
+            "metadata": {
+                "label": "dom/GetElement",
+                "x": 108,
+                "y": 252,
+                "width": 72,
+                "height": 72
+            }
         }
     },
     "connections": []
